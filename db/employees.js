@@ -1,14 +1,14 @@
 const employees = [
-  { id: 1, name: "Carolynn McGinlay" },
-  { id: 2, name: "Lodovico Filon" },
-  { id: 3, name: "Jefferey Wahlberg" },
-  { id: 4, name: "Kayley Tures" },
-  { id: 5, name: "Rickard Carver" },
-  { id: 6, name: "Michael Stryde" },
-  { id: 7, name: "Averell Santino" },
-  { id: 8, name: "Constantina Connue" },
-  { id: 9, name: "Verile Bondesen" },
-  { id: 10, name: "Gwen Grollmann" },
+  { id: 1, name: "Lyla Lynn" },
+  { id: 2, name: "Justin Lynn" },
+  { id: 3, name: "Larry Maxwell" },
+  { id: 4, name: "Tyler Maxwell" },
+  { id: 5, name: "Kathryn Wolk" },
+  { id: 6, name: "Sunny Lynn" },
+  { id: 7, name: "Wolfie Lynn" },
+  { id: 8, name: "Salem Lynn" },
+  { id: 9, name: "Jaskier Lynn" },
+  { id: 10, name: "Buu Lynn" },
 ];
 
 export default employees;
